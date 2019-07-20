@@ -4,5 +4,5 @@ named export. The component itself is also exported as default so both import
 options are available to the developer.
  */
 
-export { SectionContainer } from './SectionContainer'
-
+export { SectionContainer } from './SectionContainer';
+export { FormInput } from './FormInput';
